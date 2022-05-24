@@ -1,0 +1,63 @@
+body {
+  background-color: hsl(218, 23%, 16%);
+  font-family: "Manrope", sans-serif;
+}
+
+.card {
+  background-color: hsl(217, 19%, 24%);
+  width: 600px;
+  height: 350px;
+  position: absolute;
+  left: 35%;
+  top: 25%;
+  border-radius: 20px;
+}
+
+.card-title {
+  color: hsl(150, 100%, 66%);
+  font-size: 14px;
+  font-weight: 800;
+  position: absolute;
+  top: 30px;
+  left: 40%;
+}
+
+.card-title-id {
+  color: hsl(150, 100%, 66%);
+  font-size: 14px;
+  font-weight: 800;
+  position: absolute;
+  top: 30px;
+  left: 320px;
+}
+
+.advice {
+  color: hsl(193, 38%, 86%);
+  font-size: 28px;
+  text-align: center;
+  position: absolute;
+  top: 60px;
+  width: 450px;
+  left: 75px;
+}
+
+.pattern {
+  position: absolute;
+  left: 80px;
+  top: 250px;
+}
+
+.btn {
+  background-color: hsl(150, 100%, 66%);
+  position: absolute;
+  top: 310px;
+  left: 265px;
+  width: 70px;
+  height: 70px;
+  border: none;
+  border-radius: 50%;
+}
+.dice-img {
+  width: 25px;
+  height: 25px;
+}
