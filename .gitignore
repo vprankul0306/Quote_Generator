@@ -16,5 +16,4 @@
 .prettierignore
 
 node_modules
-*.json
 *.md
